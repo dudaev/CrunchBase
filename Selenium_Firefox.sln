@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinF_Firefox", "WinF_Firefox\WinF_Firefox.csproj", "{DFEC69E9-B1A4-4239-A660-1C75ACD939D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncWinForms", "AsyncWinForms\AsyncWinForms.csproj", "{B4886A4E-579B-4608-A297-24CD205A7080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruncAsync", "CruncAsync\CruncAsync.csproj", "{CCE145FB-4CD8-40FC-8D46-A2F00A274650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirefoxActionDel", "FirefoxActionDel\FirefoxActionDel.csproj", "{58A5B37F-EC4F-4073-9E4F-A586B51CBE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrunchBaseReady", "CrunchBaseReady\CrunchBaseReady.csproj", "{10DE2217-1259-4914-A1E4-5DB0E94D0451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemBoxExcel", "GemBoxExcel\GemBoxExcel.csproj", "{5CC97CD4-F51C-4AF1-8445-BCECEF7820A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastHTMLParser", "FastHTMLParser\FastHTMLParser.csproj", "{C2285730-5B67-4671-8AA9-282225641346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEC69E9-B1A4-4239-A660-1C75ACD939D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEC69E9-B1A4-4239-A660-1C75ACD939D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEC69E9-B1A4-4239-A660-1C75ACD939D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEC69E9-B1A4-4239-A660-1C75ACD939D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4886A4E-579B-4608-A297-24CD205A7080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4886A4E-579B-4608-A297-24CD205A7080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4886A4E-579B-4608-A297-24CD205A7080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4886A4E-579B-4608-A297-24CD205A7080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE145FB-4CD8-40FC-8D46-A2F00A274650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE145FB-4CD8-40FC-8D46-A2F00A274650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE145FB-4CD8-40FC-8D46-A2F00A274650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE145FB-4CD8-40FC-8D46-A2F00A274650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A5B37F-EC4F-4073-9E4F-A586B51CBE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A5B37F-EC4F-4073-9E4F-A586B51CBE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A5B37F-EC4F-4073-9E4F-A586B51CBE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A5B37F-EC4F-4073-9E4F-A586B51CBE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DE2217-1259-4914-A1E4-5DB0E94D0451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DE2217-1259-4914-A1E4-5DB0E94D0451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DE2217-1259-4914-A1E4-5DB0E94D0451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DE2217-1259-4914-A1E4-5DB0E94D0451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC97CD4-F51C-4AF1-8445-BCECEF7820A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC97CD4-F51C-4AF1-8445-BCECEF7820A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC97CD4-F51C-4AF1-8445-BCECEF7820A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC97CD4-F51C-4AF1-8445-BCECEF7820A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2285730-5B67-4671-8AA9-282225641346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2285730-5B67-4671-8AA9-282225641346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2285730-5B67-4671-8AA9-282225641346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2285730-5B67-4671-8AA9-282225641346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
